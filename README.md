@@ -1,3 +1,5 @@
 # Misc.
 
+Slides link attached below
+
 [2019년 1학기 - 1학년 세미나](https://docs.google.com/presentation/d/1pGIctm30ebz0tPu758RuD4FK7YIg4jl3t_K71C1kU6A/edit?usp=sharing)
